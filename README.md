@@ -4,3 +4,5 @@ https://gshivaperumal2511.github.io/front--end-development/college
 https://gshivaperumal2511.github.io/front--end-development/personal.html
 <img width="309" height="326" alt="image" src="https://github.com/user-attachments/assets/c0d78c42-2b4a-4693-86da-33a94a1f1f9b" />
 
+https://gshivaperumal2511.github.io/front--end-development/registration.html
+<img width="417" height="514" alt="image" src="https://github.com/user-attachments/assets/ee93d3a3-55a1-4fd6-8db5-e0dfd1d5d4ab" />
