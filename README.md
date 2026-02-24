@@ -9,3 +9,6 @@ https://gshivaperumal2511.github.io/front--end-development/registration.html
 
 https://gshivaperumal2511.github.io/front--end-development/login.html
 <img width="638" height="511" alt="image" src="https://github.com/user-attachments/assets/3fe5e73d-0ddf-429a-8d2b-a0db9ff14138" />
+
+https://gshivaperumal2511.github.io/front--end-development/landingpage.html
+<img width="1895" height="936" alt="image" src="https://github.com/user-attachments/assets/d8a98c1c-b779-45db-9cf1-b7b71bf15a9b" />
