@@ -1,4 +1,4 @@
-https://gshivaperumal2511.github.io/front--end-development/college
+htmlhttps://gshivaperumal2511.github.io/front--end-development/college
 <img width="333" height="220" alt="image" src="https://github.com/user-attachments/assets/dbd22b1b-f438-44b9-862b-6a7b5aa42f23" />
 
 https://gshivaperumal2511.github.io/front--end-development/personal.html
@@ -12,3 +12,4 @@ https://gshivaperumal2511.github.io/front--end-development/login.html
 
 https://gshivaperumal2511.github.io/front--end-development/landingpage.html
 <img width="1895" height="936" alt="image" src="https://github.com/user-attachments/assets/d8a98c1c-b779-45db-9cf1-b7b71bf15a9b" />
+<img width="452" height="347" alt="image" src="https://github.com/user-attachments/assets/d747e9ae-f65b-4aa1-958a-a5aa67c4a55e" />
