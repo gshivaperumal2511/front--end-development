@@ -15,5 +15,7 @@ https://gshivaperumal2511.github.io/front--end-development/landingpage.html
 https://gshivaperumal2511.github.io/front--end-development/hover.html
 <img width="420" height="328" alt="Screenshot 2026-03-18 114419" src="https://github.com/user-attachments/assets/341244ba-5b86-46d2-811b-7cc92788c96c" />
 
-validation demo  https://gshivaperumal2511.github.io/front--end-development/validation.html?
+validation demo  https://gshivaperumal2511.github.io/front--end-development/validation.html
 <img width="1258" height="267" alt="Screenshot 2026-03-27 111644" src="https://github.com/user-attachments/assets/5aa3cb85-55df-465e-87ae-1acd22ccd1d1" />
+calculator demo  https://gshivaperumal2511.github.io/front--end-development/calculator.html
+<img width="367" height="373" alt="Screenshot 2026-03-27 112434" src="https://github.com/user-attachments/assets/d1fd0142-c114-4633-a16c-56dc79cba884" />
