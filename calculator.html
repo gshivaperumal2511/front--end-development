@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Calculator</title>
+
+<style>
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f5eded;
+}
+
+.box {
+    background: rgb(237, 196, 196);
+    width: 250px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    width: 90%;
+    padding: 8px;
+    margin: 5px;
+}
+
+button:hover {
+    background: teal;
+}
+
+h3 {
+    color: green;
+}
+</style>
+
+<script>
+function calc(op){
+ let a=+n1.value, b=+n2.value;
+ if(op=='+') r.innerHTML=a+b;
+ if(op=='-') r.innerHTML=a-b;
+ if(op=='*') r.innerHTML=a*b;
+ if(op=='/') r.innerHTML=a/b;
+}
+</script>
+
+</head>
+
+<body>
+
+<div class="box">
+<h2>Calculator</h2>
+
+<input id="n1" placeholder="Num1">
+<input id="n2" placeholder="Num2"><br><br> 
+
+<button onclick="calc('+')">+</button>
+<button onclick="calc('-')">-</button>
+<button onclick="calc('*')">*</button>
+<button onclick="calc('/')">/</button>
+
+<h3 id="r"></h3>
+</div>
+
+</body>
+</html>
