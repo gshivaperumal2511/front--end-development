@@ -21,3 +21,5 @@ calculator demo  https://gshivaperumal2511.github.io/front--end-development/calc
 <img width="367" height="373" alt="Screenshot 2026-03-27 112434" src="https://github.com/user-attachments/assets/d1fd0142-c114-4633-a16c-56dc79cba884" />
 digital demo https://gshivaperumal2511.github.io/front--end-development/digital.html
 <img width="415" height="318" alt="Screenshot 2026-04-06 105929" src="https://github.com/user-attachments/assets/e38a2268-8ca6-4d5f-a784-865f589bf092" />
+do demo https://gshivaperumal2511.github.io/front--end-development/do.html
+<img width="308" height="150" alt="Screenshot 2026-04-06 110310" src="https://github.com/user-attachments/assets/64a15f89-f8b0-4895-ad6d-35d3ac5d6716" />
